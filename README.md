@@ -1,1 +1,1 @@
-<img src="readme.jpg" width="500" height="300">
+<img src="readme.jpg" width="500">
