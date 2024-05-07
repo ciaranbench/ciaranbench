@@ -6,7 +6,7 @@
 <li>I enjoy solving problems with deep learning.</li>
 <li>I am particularly interested in using uncertainty quantification and other means to make models more robust and trustworthy.</li>
 <li>In my previous work, I have applied deep learning to problems in vibrational spectroscopy, auditory neuroscience, and quantitative photoacoustic imaging.</li>
-<li> I also dabble in <a href="ufc-fight-predictor.com">algorithmic sports betting</a>.</li>
+<li> I also dabble in <a href="http://ufc-fight-predictor.com/">algorithmic sports betting</a>.</li>
 <li>ciaran[dot]bench[at]alumni[dot]ucl[dot]ac[dot]uk</li>
 </ul>
 
