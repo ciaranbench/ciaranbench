@@ -6,7 +6,7 @@
 <li>I enjoy solving problems with deep learning.</li>
 <li>I am particulalry interested in using uncertainty quantification and other means to make models more robust and trustworthy.</li>
 <li>In my previous work, I have applied deep learning to problems in vibrational spectroscopy, auditory neuroscience, and quantitative photoacoustic imaging.</li>
-ciaran[dot]bench[at]alumni[dot]ucl[dot]ac[dot]uk
+<li>ciaran[dot]bench[at]alumni[dot]ucl[dot]ac[dot]uk</li>
 </ul>
 
 
