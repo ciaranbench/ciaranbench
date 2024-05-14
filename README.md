@@ -8,6 +8,7 @@
 <li>In the past, I've contributed to projects in several fields; vibrational spectroscopy, auditory neuroscience, and photoacoustic imaging.</li>
 <li>I also dabble in <a href="http://ufc-fight-predictor.com/">algorithmic sports betting</a>.</li>
 <li><a href="https://scholar.google.com/citations?user=9DFvpQIAAAAJ&hl=en&oi=ao">Papers</a></li>
+<li><a href = "https://medium.com/@ciaranbench">Medium/Blog</a></li>
 <li>ciaran[dot]bench[at]alumni[dot]ucl[dot]ac[dot]uk</li>
 </ul>
 
