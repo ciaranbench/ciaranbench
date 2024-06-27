@@ -12,7 +12,7 @@
 <li>ciaran[dot]bench[at]alumni[dot]ucl[dot]ac[dot]uk</li>
 </ul>
 <div align="center">
-  <img src="dog3.png" width="300">
+  <img src="dog3.png" width="350">
 </div>
 
 
