@@ -11,8 +11,5 @@
 <li><a href = "https://medium.com/@ciaranbench">Medium</a></li>
 <li>ciaran[dot]bench[at]alumni[dot]ucl[dot]ac[dot]uk</li>
 </ul>
-<div align="center">
-  <img src="dog4.png" width="350">
-</div>
 
 
