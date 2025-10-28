@@ -12,4 +12,6 @@
 <li>ciaran[dot]bench[at]alumni[dot]ucl[dot]ac[dot]uk</li>
 </ul>
 
-
+<div align="center">
+  <img src="spiral01.gif" width="70">
+</div>
