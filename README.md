@@ -4,7 +4,7 @@
 
 <ul>
 <li>I enjoy solving problems with deep neural networks.</li>
-<li>I am interested in improving the robustness and trustworthiness of models used in healthcare and other domains.</li>
+<li>I am interested in improving the robustness and trustworthiness of models used science and other domains.</li>
 <!--<li>I also dabble in <a href="http://ufc-fight-predictor.com/">algorithmic sports betting</a>.</li> -->
 <li>Some of my contributions to other projects can be found on my <a href = "https://gitlab.com/ciaranbench">GitLab</a>.</li>
 <li><a href="https://ciaranbench.github.io/publications">Papers</a></li>
