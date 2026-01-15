@@ -9,7 +9,7 @@
 <li>Some of my contributions to other projects can be found on my <a href = "https://gitlab.com/ciaranbench">GitLab</a>.</li>
 <li><a href="https://ciaranbench.github.io/publications">Papers</a></li>
 <li><a href = "https://medium.com/@ciaranbench">Medium</a></li>
-<li>ciaran[dot]bench[at]alumni[dot]ucl[dot]ac[dot]uk</li>
+<li>ciaran[dot]bench[at]ucl[dot]ac[dot]uk</li>
 </ul>
 
 <div align="center">
