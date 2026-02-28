@@ -1,8 +1,7 @@
-<span style="color:#FF4D4D;">在</span><span style="color:#FF9933;">哪</span><span style="color:#FFFF66;">里</span><span style="color:#66FF66;">见</span><span style="color:#66B2FF;">过</span><span style="color:#6666FF;">你</span><span style="color:#CC66FF;">?</span>
-<span style="color:#FF4D4D;">你</span><span style="color:#FF9933;">的</span><span style="color:#FFFF66;">笑</span><span style="color:#66FF66;">容</span><span style="color:#66B2FF;">这</span><span style="color:#6666FF;">样</span><span style="color:#CC66FF;">熟</span><span style="color:#FF4D4D;">悉</span>
-<span style="color:#FF9933;">我</span><span style="color:#FFFF66;">一</span><span style="color:#66FF66;">时</span><span style="color:#66B2FF;">想</span><span style="color:#6666FF;">不</span><span style="color:#CC66FF;">起</span><span style="color:#FF4D4D;">。。。</span>
+在哪里见过你?
+你的笑容这样熟悉
+我一时想不起。。。
 
-<span style="color:#FF9933;">啊</span><span style="color:#FFFF66;">!</span> <span style="color:#66FF66;">在</span><span style="color:#66B2FF;">梦</span><span style="color:#6666FF;">里</span>
-<span style="color:#CC66FF;">梦</span><span style="color:#FF4D4D;">里</span> <span style="color:#FF9933;">梦</span><span style="color:#FFFF66;">里</span><span style="color:#66FF66;">见</span><span style="color:#66B2FF;">过</span><span style="color:#6666FF;">你</span>
-<span style="color:#CC66FF;">甜</span><span style="color:#FF4D4D;">蜜</span> <span style="color:#FF9933;">笑</span><span style="color:#FFFF66;">得</span><span style="color:#66FF66;">多</span><span style="color:#66B2FF;">甜</span><span style="color:#6666FF;">蜜</span>
-<span style="color:#CC66FF;">是</span><span style="color:#FF4D4D;">你</span>! <span style="color:#FF9933;">是</span><span style="color:#FFFF66;">你</span> <span style="color:#66FF66;">梦</span><span style="color:#66B2FF;">见</span><span style="color:#6666FF;">的</span><span style="color:#CC66FF;">就</span><span style="color:#FF4D4D;">是</span><span style="color:#FF9933;">你</span>
+啊! 在梦里 梦里 梦里见过你
+甜蜜 笑得多甜蜜
+是你! 是你 梦见的就是你
