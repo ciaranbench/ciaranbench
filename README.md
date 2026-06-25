@@ -10,4 +10,4 @@
 
 *Ah, what then?*
 
-<img src="colour.jpg" alt="aa" width="300">
+
