@@ -9,3 +9,5 @@
 *And what if when you awoke you had that flower in your hand*
 
 *Ah, what then?*
+
+<img src="colour.jpg" alt="aa" width="300">
